@@ -1,5 +1,10 @@
 package me.iaero.euler;
 
+/**
+ * Largest prime factor of 600851475143.
+ *
+ * @author Tom
+ */
 public class Problem3
 {
     static long number = 600851475143L;

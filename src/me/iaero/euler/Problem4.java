@@ -1,5 +1,10 @@
 package me.iaero.euler;
 
+/**
+ * Largest palindrome product of 3 digit numbers.
+ *
+ * @author Tom
+ */
 public class Problem4
 {
     public static void main(String[] args)
